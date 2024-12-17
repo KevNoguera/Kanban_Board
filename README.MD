@@ -7,6 +7,7 @@ The Kanban Board application is a full-stack web application designed to help us
 - [Installation](#installation)
 - [Database](#database)
 - [Deployed](#deployed)
+- [Images](#images)
 - [License](#license)
 - [Questions](#questions)
 
@@ -30,6 +31,8 @@ password:____
 ```
 npm start
 ```
+
+## Images
 
 
 ## License 
