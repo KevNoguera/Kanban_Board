@@ -34,6 +34,8 @@ npm start
 
 ## Images
 
+<img width="1431" alt="Screenshot 2024-12-16 at 9 27 55 PM" src="https://github.com/user-attachments/assets/480d3cbe-6058-40c7-830a-72888ffadcf1" />
+<img width="1433" alt="Screenshot 2024-12-16 at 9 38 11 PM" src="https://github.com/user-attachments/assets/778d8411-41eb-43d0-a1ef-1ecc7be74094" />
 
 ## License 
 
